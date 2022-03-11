@@ -2,13 +2,11 @@ package starter.stepdefinition;
 
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
-import net.serenitybdd.rest.SerenityRest;
 import net.thucydides.core.annotations.Steps;
-import org.w3c.dom.Text;
+
 import starter.step.Services;
 
-import java.io.File;
-import java.io.IOException;
+
 
 import static net.serenitybdd.screenplay.rest.questions.ResponseConsequence.seeThatResponse;
 import static org.hamcrest.Matchers.equalTo;
