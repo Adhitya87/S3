@@ -11,6 +11,6 @@ import org.junit.runner.RunWith;
 @CucumberOptions(
         plugin = {"pretty"},
         features = "src/test/resources/features",
-        tags = "@AllServices"
+        tags = "@EditImageServices"
 )
 public class CucumberTestSuite {}
