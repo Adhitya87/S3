@@ -1,9 +1,26 @@
-# Getting started with REST API testing with Serenity and Cucumber 6
 
-This is a simple starter project for Serenity with Cucumber 6 and RestAssured
+# SHOES SERVICE STATION PROJECT - QE
 
-## Want to learn more?
-For more information about Serenity BDD, you can read the [**Serenity BDD Book**](https://serenity-bdd.github.io/theserenitybook/latest/index.html), the official online Serenity documentation source. Other sources include:
-* **[Byte-sized Serenity BDD](https://www.youtube.com/channel/UCav6-dPEUiLbnu-rgpy7_bw/featured)** - tips and tricks about Serenity BDD
-* [**Serenity BDD Blog**](https://johnfergusonsmart.com/category/serenity-bdd/) - regular articles about Serenity BDD
-* [**The Serenity Dojo**](https://www.serenity-dojo.com) - Tailored BDD and Test Automation Training and Mentoring
+Steps in the procedure for testing the Alterra capstone project by taking the project title SHOES SERVICE STATION.
+With the main need to solve problems in terms of making transactions, payments and tracking status.
+In the testing process using manual and automation testing with a behavior and user experience approach from a population of users of similar services
+
+
+## Contact
+
+- [Adhitya Dwi P](https://github.com/Adhitya87)
+- [zahra A S ](https://github.com/zahrasept)
+- [Rendy Setiawan](https://github.com/rndsetiawan)
+
+
+
+## Documentation
+
+[Documentation Test Scenario](https://docs.google.com/spreadsheets/d/1TdS7NosiHK3OgMC5G-ekEdm0XI-P05fisq8BUzZf5Zo/edit#gid=659909770)
+
+
+## API Automation Screenshot
+
+![Update Services Image ](https://drive.google.com/file/d/1SGePo3bcJI42sbwQT7-Aly8RJc3L3NXt/view?usp=sharing)
+![Update Data Services ](https://drive.google.com/file/d/1SGePo3bcJI42sbwQT7-Aly8RJc3L3NXt/view?usp=sharing)
+
